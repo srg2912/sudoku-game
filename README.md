@@ -30,3 +30,10 @@ Every song was found on https://soundcloud.com/royaltyfreemusic-nocopyrightmusic
    python main.py
    ```
 
+## How to play
+- Move around using the arrow keys or WASD.
+- Place your number using the keys on your keyboard.
+- Press Q to turn on or off the music.
+- Press 0 to errase any number.
+- Once you win/lose press enter to play again.
+- Enjoy!
